@@ -1,5 +1,5 @@
 # Weather-App
-A Weather App combining with OpenWeather API using Swift UI
+A Weather App combining with OpenWeather API using SwiftUI
 <br/><br/>
 API - https://openweathermap.org/api
 <br/><br/>
